@@ -1,0 +1,5 @@
+resource_id,resource_name,resource_type,license_type,current_units,annual_fee_cny_per_unit,peak_concurrent_users,avg_concurrent_users,renewal_probability,synthetic_flag
+E001,TCAD Suite A,EDA Tool,Floating,42,168000,32,25,0.94,True
+E002,Digital Implementation Suite B,EDA Tool,Floating,55,132000,47,36,0.91,True
+E003,Analog/RF Suite C,EDA Tool,Floating,30,148000,24,18,0.89,True
+E004,Verification IP Bundle D,IP License,Project,12,265000,10,7,0.86,True

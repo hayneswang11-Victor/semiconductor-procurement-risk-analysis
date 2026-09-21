@@ -1,0 +1,5 @@
+team_id,team_name,engineer_count,resource_id,expected_peak_usage_factor,synthetic_flag
+T01,Device Modeling,18,E001,0.8,True
+T02,Digital Design,44,E002,0.85,True
+T03,Analog Design,22,E003,0.75,True
+T04,Verification,36,E004,0.6,True

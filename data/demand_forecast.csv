@@ -1,0 +1,97 @@
+month,material_id,material_name,uom,base_demand,upside_demand,downside_demand,synthetic_flag
+2026-01,M001,Silicon Wafer,wafer,3370,4044,2864,True
+2026-02,M001,Silicon Wafer,wafer,3894,4673,3310,True
+2026-03,M001,Silicon Wafer,wafer,3721,4465,3163,True
+2026-04,M001,Silicon Wafer,wafer,3817,4580,3244,True
+2026-05,M001,Silicon Wafer,wafer,3913,4696,3326,True
+2026-06,M001,Silicon Wafer,wafer,3793,4552,3224,True
+2026-07,M001,Silicon Wafer,wafer,3568,4282,3033,True
+2026-08,M001,Silicon Wafer,wafer,3432,4118,2917,True
+2026-09,M001,Silicon Wafer,wafer,3389,4067,2881,True
+2026-10,M001,Silicon Wafer,wafer,3503,4204,2978,True
+2026-11,M001,Silicon Wafer,wafer,3408,4090,2897,True
+2026-12,M001,Silicon Wafer,wafer,3526,4231,2997,True
+2026-01,M002,Photoresist,liter,2830,3396,2406,True
+2026-02,M002,Photoresist,liter,2921,3505,2483,True
+2026-03,M002,Photoresist,liter,2956,3547,2513,True
+2026-04,M002,Photoresist,liter,3123,3748,2655,True
+2026-05,M002,Photoresist,liter,3023,3628,2570,True
+2026-06,M002,Photoresist,liter,3000,3600,2550,True
+2026-07,M002,Photoresist,liter,2851,3421,2423,True
+2026-08,M002,Photoresist,liter,2804,3365,2383,True
+2026-09,M002,Photoresist,liter,2621,3145,2228,True
+2026-10,M002,Photoresist,liter,2779,3335,2362,True
+2026-11,M002,Photoresist,liter,2764,3317,2349,True
+2026-12,M002,Photoresist,liter,2875,3450,2444,True
+2026-01,M003,Process Gas,cylinder,791,949,672,True
+2026-02,M003,Process Gas,cylinder,747,896,635,True
+2026-03,M003,Process Gas,cylinder,841,1009,715,True
+2026-04,M003,Process Gas,cylinder,866,1039,736,True
+2026-05,M003,Process Gas,cylinder,862,1034,733,True
+2026-06,M003,Process Gas,cylinder,794,953,675,True
+2026-07,M003,Process Gas,cylinder,808,970,687,True
+2026-08,M003,Process Gas,cylinder,735,882,625,True
+2026-09,M003,Process Gas,cylinder,740,888,629,True
+2026-10,M003,Process Gas,cylinder,732,878,622,True
+2026-11,M003,Process Gas,cylinder,769,923,654,True
+2026-12,M003,Process Gas,cylinder,808,970,687,True
+2026-01,M004,CMP Slurry,liter,6078,7294,5166,True
+2026-02,M004,CMP Slurry,liter,6318,7582,5370,True
+2026-03,M004,CMP Slurry,liter,6723,8068,5715,True
+2026-04,M004,CMP Slurry,liter,6554,7865,5571,True
+2026-05,M004,CMP Slurry,liter,6346,7615,5394,True
+2026-06,M004,CMP Slurry,liter,6513,7816,5536,True
+2026-07,M004,CMP Slurry,liter,6268,7522,5328,True
+2026-08,M004,CMP Slurry,liter,6139,7367,5218,True
+2026-09,M004,CMP Slurry,liter,6139,7367,5218,True
+2026-10,M004,CMP Slurry,liter,5627,6752,4783,True
+2026-11,M004,CMP Slurry,liter,5997,7196,5097,True
+2026-12,M004,CMP Slurry,liter,6005,7206,5104,True
+2026-01,M005,PVD Target,piece,113,136,96,True
+2026-02,M005,PVD Target,piece,116,139,99,True
+2026-03,M005,PVD Target,piece,115,138,98,True
+2026-04,M005,PVD Target,piece,108,130,92,True
+2026-05,M005,PVD Target,piece,111,133,94,True
+2026-06,M005,PVD Target,piece,116,139,99,True
+2026-07,M005,PVD Target,piece,110,132,94,True
+2026-08,M005,PVD Target,piece,105,126,89,True
+2026-09,M005,PVD Target,piece,100,120,85,True
+2026-10,M005,PVD Target,piece,100,120,85,True
+2026-11,M005,PVD Target,piece,98,118,83,True
+2026-12,M005,PVD Target,piece,102,122,87,True
+2026-01,M006,Packaging Substrate,piece,181638,217966,154392,True
+2026-02,M006,Packaging Substrate,piece,185880,223056,157998,True
+2026-03,M006,Packaging Substrate,piece,203473,244168,172952,True
+2026-04,M006,Packaging Substrate,piece,197860,237432,168181,True
+2026-05,M006,Packaging Substrate,piece,194066,232879,164956,True
+2026-06,M006,Packaging Substrate,piece,185853,223024,157975,True
+2026-07,M006,Packaging Substrate,piece,189011,226813,160659,True
+2026-08,M006,Packaging Substrate,piece,180252,216302,153214,True
+2026-09,M006,Packaging Substrate,piece,174311,209173,148164,True
+2026-10,M006,Packaging Substrate,piece,177214,212657,150632,True
+2026-11,M006,Packaging Substrate,piece,171397,205676,145687,True
+2026-12,M006,Packaging Substrate,piece,179466,215359,152546,True
+2026-01,M007,Lead Frame,kpcs,220,264,187,True
+2026-02,M007,Lead Frame,kpcs,210,252,178,True
+2026-03,M007,Lead Frame,kpcs,220,264,187,True
+2026-04,M007,Lead Frame,kpcs,238,286,202,True
+2026-05,M007,Lead Frame,kpcs,227,272,193,True
+2026-06,M007,Lead Frame,kpcs,219,263,186,True
+2026-07,M007,Lead Frame,kpcs,203,244,173,True
+2026-08,M007,Lead Frame,kpcs,206,247,175,True
+2026-09,M007,Lead Frame,kpcs,202,242,172,True
+2026-10,M007,Lead Frame,kpcs,183,220,156,True
+2026-11,M007,Lead Frame,kpcs,187,224,159,True
+2026-12,M007,Lead Frame,kpcs,206,247,175,True
+2026-01,M008,Specialty Chemical,liter,5286,6343,4493,True
+2026-02,M008,Specialty Chemical,liter,5539,6647,4708,True
+2026-03,M008,Specialty Chemical,liter,5508,6610,4682,True
+2026-04,M008,Specialty Chemical,liter,5796,6955,4927,True
+2026-05,M008,Specialty Chemical,liter,5454,6545,4636,True
+2026-06,M008,Specialty Chemical,liter,5583,6700,4746,True
+2026-07,M008,Specialty Chemical,liter,5356,6427,4553,True
+2026-08,M008,Specialty Chemical,liter,5476,6571,4655,True
+2026-09,M008,Specialty Chemical,liter,5096,6115,4332,True
+2026-10,M008,Specialty Chemical,liter,5091,6109,4327,True
+2026-11,M008,Specialty Chemical,liter,5340,6408,4539,True
+2026-12,M008,Specialty Chemical,liter,5272,6326,4481,True

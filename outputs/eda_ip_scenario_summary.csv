@@ -1,0 +1,13 @@
+scenario,policy,annual_license_cost_cny,peak_demand_coverage,estimated_uncovered_peak_units
+Base,Lean,19895000.0,1.0,0
+Base,Current,21936000.0,1.0,0
+Base,Buffer,25570000.0,1.0,0
+Demand +20%,Lean,19895000.0,0.9292035398230089,11
+Demand +20%,Current,21936000.0,0.9896755162241887,2
+Demand +20%,Buffer,25570000.0,1.0,0
+Vendor Price +10%,Lean,21884500.0,1.0,0
+Vendor Price +10%,Current,24129600.0,1.0,0
+Vendor Price +10%,Buffer,28127000.0,1.0,0
+Project Growth,Lean,20889750.0,0.8577263444520081,23
+Project Growth,Current,23032800.0,0.9434989788972089,10
+Project Growth,Buffer,26848500.0,1.0,0

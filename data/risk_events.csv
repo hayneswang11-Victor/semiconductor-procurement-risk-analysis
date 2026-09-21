@@ -1,0 +1,6 @@
+event_id,scenario,scope,impact_type,multiplier,description,synthetic_flag
+EVT01,Base,All,none,1.0,Normal planning baseline,True
+EVT02,Demand Surge,All,demand,1.2,Demand +20% across materials,True
+EVT03,Cost Pressure,All,price,1.1,Supplier price +10%,True
+EVT04,Supply Disruption,All,capacity,0.7,"Available capacity -30%, lead time +25%",True
+EVT05,FX Shock,Foreign suppliers,fx,1.08,Non-CNY landed cost +8%,True
